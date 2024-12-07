@@ -1,12 +1,10 @@
 aiohttp==3.8.1
 pymongo[srv]
 motor==2.5.1
-Pyrogram==2.0.30
-TgCrypto==1.2.3
+pyrogram==2.0.30
+tgcrypto==1.2.3
 bs4
 pyshorteners
 aiofiles
-dnspythons
+dnspython
 python-dotenv
-errorsolvers
-domainers 
